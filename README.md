@@ -26,11 +26,3 @@
 <a href="https://vk.com/binert_official"><img align="left" title="VK" alt="VK" width="30px" src="assets/vk.png"
 <a href="https://discord.gg/97jAT48kBp"><img align="left" title="Discord Server" width="30px" src="assets/discord.png" /></a>
 
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
