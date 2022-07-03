@@ -5,7 +5,8 @@
 <a href="https://github.com/NoLupiPls"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoLupiPls&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-<h2><b><i>Howdy , it's Ilya 👋</i></b></h2>
+<h1><b><i>Howdy , it's Ilya 👋</i></b></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
