@@ -15,7 +15,7 @@
 
 
 <h3><b><i>☠ Works :</i></b></h3>
-<li> <a href="https://github.com/NoLupiPls/Binary_Bot>Binary bot - bot for Telegram</a>
+<li> <a href="https://github.com/NoLupiPls/Binary_Bot">Binary bot - bot for Telegram</a>
 <li> <a href="https://github.com/NoLupiPls/HeartMagic">Heart Magic - effect for Telegram</a>
 <li> <a href="https://github.com/NoLupiPls/RandomBot">Random Bot - bot for Telegram
 
