@@ -6,12 +6,12 @@
 </a></p>
 
 <h2><b><i>Howdy , it's Ilya 👋</i></b></h2>
-<b><i>💻 I'm a Student & A part time Programmer</i></b>
+<b><i>💻 I'm a schoolboy and I study programming most of the time</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 😪 <i>Love Sleeping and programming</i></li>
 <li> 💔 <i>Born Single</i></li>
-<li> 🐍 <i>Trying to learn Python & HTML/CSS</i></li>
+<li> 🐍 <i>Trying to learn Python & HTML/CSS/JavaScript</i></li>
 
 
 <h3><b><i>☠ Works :</i></b></h3>
@@ -24,6 +24,6 @@
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/NoLupiPls"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://t.me/likemyasspls"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/telegram.png" /></a>
-<a href="https://vk.com/binert_official"><img align="left" title="VK" alt="VK" width="30px" src="assets/vk.png"
+<a href="https://t.me/NoLupiPls"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/telegram.png" /></a>
+<a href="https://vk.com/NoLupi"><img align="left" title="VK" alt="VK" width="30px" src="assets/vk.png"
 <a href="https://discord.gg/97jAT48kBp"><img align="left" title="Discord Server" alt="Discord" width="30px" src="assets/discord.png" /></a>
