@@ -18,7 +18,7 @@
 <li> <a href="https://github.com/NoLupiPls/Binary_Bot">Binary bot - bot for Telegram</a>
 <li> <a href="https://github.com/NoLupiPls/HeartMagic">Heart Magic - effect for Telegram</a>
 <li> <a href="https://github.com/NoLupiPls/RandomBot">Random Bot - bot for Telegram</a>
-<li? <a href="https://github.com/NoLupiPls/Personal_Site">My personal site</a>
+<li> <a href="https://github.com/NoLupiPls/Personal_Site">My personal site</a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/NoLupiPls"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=NoLupiPls&color=blueviolet&style=flat-square"></a>
