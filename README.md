@@ -11,7 +11,7 @@
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 😪 <i>Love Sleeping, programming and music</i></li>
 <li> 💔 <i>Born Single</i></li>
-<li> 🐍 <i>Trying to learn Python & HTML/CSS/JavaScript</i></li>
+<li> 🐍 <i>I teach to learn Python & HTML/CSS/JavaScript(also satl try yourself in Java and Kotlin)</i></li>
 
 
 <h3><b><i>☠ Works :</i></b></h3>
