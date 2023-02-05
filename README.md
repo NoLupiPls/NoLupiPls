@@ -9,7 +9,7 @@
 <b><i>💻 I'm a schoolboy and I study programming most of the time</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
-<li> 😪 <i>Love Sleeping and programming</i></li>
+<li> 😪 <i>Love Sleeping, programming and music</i></li>
 <li> 💔 <i>Born Single</i></li>
 <li> 🐍 <i>Trying to learn Python & HTML/CSS/JavaScript</i></li>
 
