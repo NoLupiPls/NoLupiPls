@@ -23,6 +23,8 @@
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/NoLupiPls"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=NoLupiPls&color=blueviolet&style=flat-square"></a>
 
+<h2>If you want to contact me, write to me in telegram =)</h2>
+
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/NoLupiPls"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
 <a href="https://t.me/NoLupiPls"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/telegram.png" /></a>
