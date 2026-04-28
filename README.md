@@ -164,7 +164,7 @@ Open to high-impact product work and collaboration.
   <a href="https://github.com/NoLupiPls">
     <img width="30px" src="assets/github.png" />
   </a>
-  <a href="https://t.me/NoLupiPls">
+  <a href="https://t.me/ilya_dl">
     <img width="30px" src="assets/telegram.png" />
   </a>
 </p>
