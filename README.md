@@ -28,7 +28,7 @@ I build products with measurable business impact
 
 ## Key Project
 
-### T-Поиск (T-Банк)
+### T-Search (T-Bank)
 
 Fintech product focused on financial decision-making.
 
@@ -53,7 +53,7 @@ Financial data → structured decision-making system
 
 ## Products
 
-### Синопсис (B2B)
+### Synopsis (B2B)
 
 HR analytics platform focused on predicting employee churn.
 
@@ -111,7 +111,7 @@ Early-stage product, currently launching
 
 ---
 
-### Перелети
+### Pereleti
 
 End-to-end travel platform.
 
