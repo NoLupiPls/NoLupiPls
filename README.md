@@ -158,13 +158,16 @@ Focus: scalable platform with expansion potential
 
 ## Contact
 
-Open to high-impact product work and collaboration.
+Open to collaboration and high-impact product work.
+
+👉 Russian version of this README:  
+[README in Russian](./READMEru.md)
 
 <p align="left">
   <a href="https://github.com/NoLupiPls">
     <img width="30px" src="assets/github.png" />
   </a>
-  <a href="https://t.me/ilya_dl">
+  <a href="https://t.me/NoLupiPls">
     <img width="30px" src="assets/telegram.png" />
   </a>
 </p>
