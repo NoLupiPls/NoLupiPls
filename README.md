@@ -111,7 +111,7 @@ Early-stage product, currently launching
 
 ---
 
-### Pereleti
+### OkAvia
 
 End-to-end travel platform.
 
