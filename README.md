@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h1 align="center">Ilya</h1>
+<h1 align="center">Ilya Shirobokih</h1>
 <h3 align="center">Product builder</h3>
 
 <p align="center">
