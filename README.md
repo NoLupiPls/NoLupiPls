@@ -1,179 +1,254 @@
-<!-- Github README -->
+<!-- GitHub README -->
 <p align="center">
   <a href="https://github.com/NoLupiPls">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=NoLupiPls&show_icons=true&include_all_commits=true&theme=react&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=NoLupiPls&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="GitHub statistics" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/NoLupiPls">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoLupiPls&layout=compact&theme=react&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoLupiPls&layout=compact&theme=react&hide_border=true" alt="Most used languages" />
   </a>
 </p>
-
 <h1 align="center">Ilya Shirobokih</h1>
-<h3 align="center">Product builder</h3>
-
+<h3 align="center">Data Analyst · Product Analytics · Machine Learning</h3>
 <p align="center">
-I build products with measurable business impact
+  I look for signals in the noise.
+</p>
+<p align="center">
+  <a href="https://shiroko.tech">Portfolio</a> ·
+  <a href="https://github.com/NoLupiPls">GitHub</a> ·
+  <a href="https://t.me/NoLupiPls">Telegram</a>
 </p>
 
----
+⸻
 
-## Positioning
+About
 
-- Building products, not features  
-- Combining engineering, analytics, and business thinking  
-- Focused on scalable systems that influence user decisions  
+I’m a data analyst with hands-on experience in fintech product analytics.
 
----
+I use SQL and Python to investigate user behavior, analyze product metrics, automate reporting, and turn raw data into actionable insights.
 
-## Key Project
+I’m particularly interested in understanding why users behave the way they do, identifying patterns behind business metrics, and applying machine learning to real-world analytical problems.
 
-### T-Search (T-Bank)
+Currently studying Accounting and Economics, combining analytical thinking with an understanding of financial processes and business performance.
 
-Fintech product focused on financial decision-making.
+⸻
 
-**Core functionality:**
-- purchase analysis  
-- impulsive spending prevention  
-- integration with goals, savings, and financial data  
+Experience
 
-**Business impact:**
-- 37.25% product margin  
-- break-even in 8 months  
-- 25M RUB profit in year 1  
+T-Bank — Product Analyst Intern
 
-**User impact:**
-- 34% retention  
-- +47.6% new users in T-Город ecosystem  
+T-Investments · Web Trading Terminal
+March 2026 — August 2026
 
-**Concept:**
-Financial data → structured decision-making system
+Worked on product analytics for an investment platform, focusing on user behavior, trading activity, conversion, and reporting automation.
 
----
+Analytics & experimentation
 
-## Products
+* Analyzed the conversion funnel from brokerage account opening and funding to the first trade.
+* Investigated user behavior using SQL and Python, applying cohort and segment analysis to identify patterns in conversion and trading activity.
+* Formulated and prioritized product hypotheses based on behavioral data.
+* Worked with A/B testing methodology, including target and guardrail metrics, group comparability, and statistical significance.
 
-### Synopsis (B2B)
+Machine learning
 
-HR analytics platform focused on predicting employee churn.
+* Developed gradient boosting models to estimate the probability of a transaction.
+* Used SHAP to interpret model predictions and identify behavioral features associated with transaction activity.
 
-**Core functionality:**
-- identifies employees at risk of leaving  
-- analyzes internal communication using graph-based models  
-- provides early signals for HR intervention  
+Automation & impact
 
-**Performance metrics (model-based):**
-- 78–86% churn prediction accuracy  
-- early detection: 30–60 days before resignation  
-- up to 27% reduction in employee turnover  
+* Automated recurring reporting with SQL and Python, reducing preparation time from 4 hours to 30–40 minutes — more than 6× faster.
+* Identified drop-off points between instrument views and order creation, providing input for product interface improvements.
+* Structured a backlog of 20+ product hypotheses with expected impact, validation metrics, and priorities.
+* Conducted 10+ analytical studies of user behavior and trading scenarios.
 
-**Business impact:**
-- 15–22% reduction in hiring costs  
-- ROI: 3.2x – 5.1x  
-- 300k–800k RUB saved per retained employee  
+⸻
 
-**Deployment:**
-- 2–4 weeks implementation  
-- 85%+ employee coverage  
-- 85–92% B2B retention  
+Selected Projects
 
-**Status:**
-200M RUB allocated for development and market entry  
+T-Search — Fintech Decision Support
 
----
+A fintech product concept focused on helping users make more informed purchasing decisions through financial data.
 
-### Qvadro
+Core idea
 
-Real estate transaction platform.
+* Analyze spending and available balances.
+* Help users recognize impulsive spending patterns.
+* Connect purchases with savings goals and financial plans.
 
-Qvadro simplifies the entire apartment purchase journey — from search to deal completion.
+Business model & validation
 
-**Approach:**
-- free access to market exploration  
-- paid features only where decisions matter  
-- modular support instead of bundled services  
+* Financial modeling, including margin and break-even analysis.
+* Product metrics and retention assumptions.
+* Integration concept for the T-Bank ecosystem.
 
-**Key capabilities:**
-- market understanding  
-- price evaluation  
-- legal and risk checks  
-- mortgage and deal support  
+Project metrics
 
-**Business model:**
-- user payments for high-value actions  
-- partner monetization (banks, agencies, legal services)  
+* 37.25% modeled product margin.
+* Break-even projected for month 8.
+* 25M RUB projected first-year profit.
+* 34% target retention.
+* +47.6% projected new users within the T-Gorod ecosystem.
 
-**Concept:**
-User pays only for decisions, not for process
+Financial and growth figures represent project estimates, not verified production results.
 
-**Status:**
-Early-stage product, currently launching  
+Synopsis — HR Analytics
 
----
+An analytics platform concept for identifying employee attrition risks and supporting proactive HR decisions.
 
-### OkAvia
+Core idea
 
-End-to-end travel platform.
+* Predict employee churn using machine learning.
+* Identify patterns associated with employee turnover.
+* Provide earlier signals for targeted HR intervention.
 
-- full journey: tickets → airport → arrival  
-- departure time optimization  
-- real-time flight tracking  
+Analytical focus
 
-Focus: scalable platform with expansion potential  
+* Classification and predictive modeling.
+* Feature analysis and model evaluation.
+* Translating model outputs into actionable business recommendations.
 
----
+Performance and financial figures are project-level estimates, not independently verified production outcomes.
 
-## Achievements
+Qvadro — Real Estate Analytics
 
-2026 — Bootcamp CU’26 Winner  
-(Central University, T-Bank)  
-→ product received funding for development  
+An early-stage product concept for supporting users throughout the apartment purchase journey.
 
-2025 — Winner, Deadline Case Championship  
-(T-Bank, MOEX (Moscow Exchange), Avito, Central University (Moscow))
+Focus areas
 
-2024 — Prize Winner, Deadline Case Championship  
-(T-Bank, GSOM SPbU (Saint Petersburg State University Graduate School of Management), Central University, Yandex)
+* Real estate market exploration.
+* Property price assessment.
+* Legal and transaction risk checks.
+* Mortgage scenario analysis.
+* Data-driven support for purchasing decisions.
 
----
+Business model
 
-## Capabilities
+* Freemium access to property search and basic assessments.
+* Paid analytical services for high-value decisions.
+* Potential partnerships with banks, real estate agencies, and legal providers.
 
-- Product design and validation  
-- Business and financial modeling  
-- Backend (Python)  
-- Web (JS / TS)  
-- Mobile (Swift)  
+OkAvia — Travel Technology
 
----
+A travel platform concept covering the journey from ticket booking to arrival.
 
-## Focus Areas
+Focus areas
 
-- Fintech  
-- B2B analytics  
-- Marketplaces and platforms  
-- Decision-support systems  
+* Flight and travel planning.
+* Departure time optimization.
+* Airport navigation.
+* Real-time flight tracking.
 
----
+⸻
 
-## Contact
+Technical Skills
 
-Open to collaboration and high-impact product work.
+SQL & Databases
 
-👉 Russian version of this README:  
-[README in Russian](./READMEru.md)
+* SQL
+* PostgreSQL
+* Joins, aggregations, window functions
+* Analytical queries and reporting datasets
+
+Python & Data Analysis
+
+* Python
+* pandas
+* NumPy
+* Jupyter Notebook
+* Exploratory data analysis
+* Data processing and reporting automation
+
+Statistics & Experimentation
+
+* Mathematical statistics
+* A/B testing
+* Hypothesis testing
+* Cohort and segment analysis
+* Product funnel analysis
+* Metric interpretation
+
+Machine Learning
+
+* scikit-learn
+* Gradient boosting
+* Classification
+* Model evaluation
+* SHAP explainability
+
+Visualization & Engineering
+
+* Matplotlib
+* Power BI
+* Git
+* REST APIs
+* Docker
+
+⸻
+
+Achievements
+
+2026 — Central University Bootcamp
+
+* Prize-winning team at the Central University bootcamp.
+* Presented a product concept to a jury of industry professionals.
+
+2025 — Deadline Case Championship
+
+* Winner.
+* Case competition involving T-Bank, MOEX, Avito, and Central University.
+
+2024 — Deadline Case Championship
+
+* Prize winner.
+* Competition involving T-Bank, GSOM SPbU, Central University, and Yandex.
+
+⸻
+
+Education
+
+Presidential Academy — Siberian Institute of Management
+Accounting and Economics
+Expected graduation: 2028
+
+Central University
+AI Track: Focus · 2026
+
+Yandex Lyceum
+Industrial Python Programming · 2025
+
+Code of the Future
+Industrial Python Programming · 2023
+
+⸻
+
+Current Focus
+
+* Product and data analytics
+* SQL-based analytical workflows
+* Experimentation and statistical inference
+* Machine learning for behavioral analysis
+* Turning analytical findings into business recommendations
+
+⸻
+
+Contact
+
+Interested in data analytics, fintech, and projects where analytical thinking meets practical business problems.
 
 <p align="left">
   <a href="https://github.com/NoLupiPls">
-    <img width="30px" src="assets/github.png" />
+    <img width="30px" src="assets/github.png" alt="GitHub" />
   </a>
   <a href="https://t.me/NoLupiPls">
-    <img width="30px" src="assets/telegram.png" />
+    <img width="30px" src="assets/telegram.png" alt="Telegram" />
+  </a>
+  <a href="https://shiroko.tech">
+    <img width="30px" src="assets/website.png" alt="Portfolio" />
   </a>
 </p>
-
----
-
 <p align="center">
-Building systems that drive measurable outcomes
+  <i>Every number has a reason. I look for it.</i>
+</p>
+<p align="center">
+  <a href="./READMEru.md">Русская версия README</a>
 </p>
